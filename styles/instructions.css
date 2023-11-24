@@ -1,0 +1,18 @@
+.box{
+    margin: 10px;
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+.msg{
+    color: red;
+}
+
+.title{
+    display: inline-block;
+}
+
+.search-block{
+    display: inline-block;
+    margin-left: 10px;
+}

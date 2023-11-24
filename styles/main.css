@@ -1,0 +1,52 @@
+.box{
+    text-align: center;
+    width: 350px;
+    height: 310px;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.box-reg{
+    height: 370px;
+}
+
+.box h1{
+    display: inline-block;
+    margin: 20px 20px  10px 20px;
+}
+
+.box hr{
+    margin-bottom: 5%;
+}
+
+.box input{
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+}
+
+.box button{
+    margin-top: 10px;
+    width: 200px;
+    height: 30px;
+}
+
+.box a{
+    display: inline-block;
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.msg{
+    color: red;
+}

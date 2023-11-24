@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+
+header{
+    padding: 10px;
+}
+
+h1{
+    display: inline;
+}
+
+.nav a, .user a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.nav a:hover, .user a:hover{
+    text-decoration: underline;
+}
+
+ul, li{
+    display: inline;
+}
+
+.user{
+    float: right;
+    margin: 10px 20px;
+    font-size: 20px;
+}

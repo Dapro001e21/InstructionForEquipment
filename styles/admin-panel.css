@@ -1,0 +1,10 @@
+.box{
+    display: flex;
+    margin: 10px;
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+.item{
+    width: 50%;
+}
